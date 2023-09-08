@@ -1,5 +1,5 @@
 # SteamCMD-CollectionDownloadScript
-Wrote it so I don't need to download every single file from SteamCMD Collections for GOG Game :|
+Wrote it so I don't need to download every single file from Steam Workshop Collections for GOG Game :|
 It's VERY simple script so do not expect much.   
 
 1. Download SteamCMD from official site; put both SteamCMD and Workshop Collection Downloader in the same directory.
